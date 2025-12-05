@@ -1,0 +1,34 @@
+Cómo ejecutar el Online Shopping Portal usando PHP y MySQL
+
+Descarga el archivo .zip.
+
+Extrae el archivo y copia la carpeta shopping.
+
+Pega la carpeta dentro del directorio raíz
+(para XAMPP: xampp/htdocs, para WAMP: wamp/www, para LAMP: var/www/html).
+
+Abre PHPMyAdmin:
+http://localhost/phpmyadmin
+
+Crea una base de datos con el nombre shopping.
+
+Importa el archivo shopping.sql
+(dado dentro del archivo .zip en la carpeta SQL file).
+
+Ejecuta el script:
+http://localhost/shopping (frontend)
+
+Enlace del panel de administración (admin panel):
+http://localhost/shopping/admin
+
+Datos de acceso para el usuario:
+
+Usuario: anuj.lpu1@gmail.com
+
+Contraseña: Test@123
+
+Datos de acceso para el administrador:
+
+Usuario: admin
+
+Contraseña: Test@123
